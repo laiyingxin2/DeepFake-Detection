@@ -1,1 +1,1 @@
-# DeepFake-Detection Survey for Final froject
+# DeepFake-Detection Survey For Final Project
